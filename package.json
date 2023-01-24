@@ -1,0 +1,8 @@
+{
+    "name": "jp.ya7gi.unitytooltip",
+    "author": "YA7GI",
+    "version": "1.0.0",
+    "displayName": "UnityTooltip",
+    "description": "Tooltip for Unity",
+    "unity": "2021.3"
+}
