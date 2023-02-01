@@ -1,5 +1,8 @@
-# UnityTooltip
+# <img src="https://github.com/YAVIIGI/UnityTooltip/blob/main/Images/UnityTooltip.png" width=28px> UnityTooltip
+ 
 Tooltip for Unity
+
+<img src="https://user-images.githubusercontent.com/118232419/213920352-cf29b65f-f84d-4979-be87-99e3051e897f.png" width=500px>
 
 ## How to Use (EN)
 1. Add `TooltipCreator` in target Canvas's children at the bottom.
